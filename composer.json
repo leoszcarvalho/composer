@@ -4,7 +4,7 @@
     "description": "A simple way to work with date and time in PHP. It contains a powerful schedule maker.",
     "version": "1.0.0",
     "keywords": ["time","hour","date","functions","easy","codemage","schedule"],
-    "homepage": "https://github.com/henriquefernandez/DateTime",
+    "homepage": "https://github.com/leoszcarvalho/composer",
     "license": "MIT",
     "minimum-stability": "beta",
     "authors": [
