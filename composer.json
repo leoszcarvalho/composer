@@ -1,5 +1,5 @@
 {
-    "name": "Leokbr/helloworld",
+    "name": "leokbr/helloworld",
     "type": "library",
     "description": "A simple way to work with date and time in PHP. It contains a powerful schedule maker.",
     "version": "1.0.0",
